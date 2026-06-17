@@ -109,8 +109,6 @@ python passguard.py
 
 ## 🧠 Concepts Practiced
 
-Through this project, I strengthened my understanding of:
-
 - Python programming fundamentals
 - Functions and modules
 - Imports and modular programming
@@ -118,17 +116,6 @@ Through this project, I strengthened my understanding of:
 - Password security principles
 - Software organization and maintainability
 - Version control using Git and GitHub
-
----
-
-## ⚙️ Challenges
-
-Some challenges encountered during development included:
-
-- Designing a password scoring system
-- Organizing the application into multiple files
-- Passing information between modules using imports
-- Designing a simple and user friendly interface
 
 ---
 
@@ -146,13 +133,6 @@ Possible future enhancements include:
 
 ---
 
-## 📚 Educational Purpose
-
-This project was developed primarily as an educational exercise to demonstrate how software engineering principles can be applied to cybersecurity problems.
-
-The goal was not to build an enterprise password manager, but rather to gain a deeper understanding of modular application development, user interface design, and password security through practical, hands on development.
-
----
 
 ## 👨🏾‍💻 Author
 
